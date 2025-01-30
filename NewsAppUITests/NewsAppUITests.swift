@@ -2,7 +2,7 @@
 //  NewsAppUITests.swift
 //  NewsAppUITests
 //
-//  Created by prem on 27/01/25.
+//  Created by Jaya on 27/01/25.
 //
 
 import XCTest
